@@ -6,7 +6,7 @@ This is a **drop-in replacement** mod for Stealth Burner, intended to match the 
 
 The design has been verified via CFD: 
 
-![CFD Result](https://github.com/LiteraryCarp/Carp_Burner/IMGs/CFD01.png)
+![CFD Result](https://github.com/LiteraryCarp/Carp_Burner/blob/main/IMGs/CFD01.png)
 
 Recommended Fan for the design is *WS7040*, with air-tube of 15mm inner diameter.
 
@@ -14,4 +14,4 @@ Recommended Fan for the design is *WS7040*, with air-tube of 15mm inner diameter
 
 The design **has not** been verified experimentally. Please contact the author if any problem has been noticed.
 
-Optimizing structural weight and more aesthetic practices will be considered in furture updates.
+Optimizing structural weight and other aesthetic practices will be considered in furture updates.
