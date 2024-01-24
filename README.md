@@ -2,7 +2,9 @@
 
 ## General Information
 
-This is a **drop-in replacement** mod for Stealth Burner, intended to match the increasingly prevalent remote cooling architectures found in high-speed DIY 3D printers.
+This is a **drop-in replacement** mod for [Stealth Burner](https://github.com/VoronDesign/Voron-Stealthburner).
+
+The mod is intended to match Voron with the increasingly prevalent remote cooling architectures found in high-speed DIY 3D printers.
 
 The design has been verified via CFD: 
 
