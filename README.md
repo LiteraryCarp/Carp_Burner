@@ -24,7 +24,9 @@ Structural weight optimization has also been executed:
 
 M2 self-tapping screws (x2) is required for installing Knomi Cap.
 
-Weight-optimized model without Knomi support is yet available, and will not be considered by auther unless heavily requested.
+## Update 01/05/2024
+
+Weight optimized the version without Knomi compatiability.
 
 ## Disclaimer
 
